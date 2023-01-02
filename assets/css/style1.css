@@ -169,7 +169,7 @@ preloader
 ====================== */
 
 .preloader {
-  background: #ffc421;
+  background: #fddd00;
   position: fixed;
   height: 100%;
   width: 100%;
@@ -276,7 +276,7 @@ site title css
   letter-spacing: 2px;
   font-weight: 600;
   font-size: 35px;
-  color: #ffc421;
+  color: #fddd00;
   position: relative;
   font-family: 'Parisienne', cursive;
 }
@@ -521,7 +521,7 @@ theme button
   text-align: center;
   border: none;
   border-radius: 50px;
-  background: #ffc421;
+  background: #fddd00;
   box-shadow: 0 3px 24px rgb(0 0 0 / 10%);
 }
 
@@ -703,7 +703,7 @@ scroll-top css
   outline: none;
   border-radius: 50px;
   color: #fff;
-  background-color: #ffc421;
+  background-color: #fddd00;
   cursor: pointer;
   width: 45px;
   height: 45px;
@@ -716,7 +716,7 @@ scroll-top css
 #scroll-top::before {
   content: "";
   position: absolute;
-  border: 3px solid #ffc421;
+  border: 3px solid #fddd00;
   border-radius: 50px;
   left: -6px;
   right: -6px;
@@ -734,7 +734,7 @@ top header css
 .header-top {
   padding: 10px 0 10px 0;
   position: relative;
-  background: #ffc421;
+  background: #fddd00;
   z-index: 1000;
 }
 
@@ -779,7 +779,7 @@ top header css
   width: 30px;
   height: 30px;
   line-height: 31px;
-  color: #ffc421;
+  color: #fddd00;
   font-size: 16px;
   background: #fff;
   text-align: center;
@@ -818,7 +818,7 @@ top header css
 
 .header-top-lang .dropdown-item:hover {
   background: transparent;
-  color: #ffc421;
+  color: #fddd00;
 }
 
 @media all and (max-width: 991px) {
@@ -861,7 +861,7 @@ nav menu css
     border: none;
     padding: 0 20px;
     border-radius: 0;
-    background: #ffc421;
+    background: #fddd00;
     width: 220px;
     box-shadow: 0 3px 24px rgb(0 0 0 / 10%);
   }
@@ -978,7 +978,7 @@ nav menu css
 
 /*bootstrap nav*/
 .navbar {
-  background: #ffc421;
+  background: #fddd00;
   padding-top: 0px;
   padding-bottom: 0px;
   box-shadow: 0 0 40px 5px rgb(0 0 0 / 5%);
@@ -986,7 +986,7 @@ nav menu css
 }
 
 .navbar.fixed-top {
-  background: #ffc421;
+  background: #fddd00;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.17);
   animation: slide-down 0.7s;
 }
@@ -1270,7 +1270,7 @@ search popup
   margin-top: -200px;
   border-radius: 50px;
   text-align: center;
-  background: #ffc421;
+  background: #fddd00;
   text-align: center;
   width: 50px;
   height: 50px;
@@ -1332,7 +1332,7 @@ search popup
   right: 5px;
   top: 5px;
   border-radius: 8px;
-  background: #ffc421;
+  background: #fddd00;
   text-align: center;
   font-size: 20px;
   color: #fff !important;
@@ -1345,7 +1345,7 @@ search popup
 
 .search-popup .form-group input[type="submit"]:hover,
 .search-popup .form-group button:hover {
-  background: #ffc421;
+  background: #fddd00;
 }
 
 .search-popup input::placeholder,
@@ -1365,7 +1365,7 @@ hero css
 }
 
 .hero-single {
-  background: #ffc421;
+  background: #fddd00;
   padding-top: 120px;
   padding-bottom: 120px;
   background-position: center !important;
@@ -1568,7 +1568,7 @@ play btn
   line-height: 75px;
   font-size: 20px;
   text-align: center;
-  background: #ffc421;
+  background: #fddd00;
   color: #fff !important;
   position: absolute;
   border-radius: 50%;
@@ -1583,7 +1583,7 @@ play btn
   top: 0;
   left: 0;
   z-index: -1;
-  background-color: #ffc421;
+  background-color: #fddd00;
   border-radius: 50px;
   animation: ripple-wave 1s linear infinite;
   -webkit-transform: scale(1);
@@ -1613,7 +1613,7 @@ category css
 
 .category-area {
   padding: 20px 0;
-  background: #ffc421;
+  background: #fddd00;
 }
 
 .category-item {
@@ -1699,7 +1699,7 @@ banner css
 }
 
 .banner-item-content a:hover {
-  background: #ffc421;
+  background: #fddd00;
 }
 
 .banner-item2 .banner-item-content {
@@ -1788,7 +1788,7 @@ about css
   left: 0;
   top: 0;
   font-family: "Font Awesome 5 Pro";
-  color: #ffc421;
+  color: #fddd00;
 }
 
 
@@ -1849,7 +1849,7 @@ feature css
   bottom: 0;
   height: 3px;
   width: 0;
-  background: #ffc421;
+  background: #fddd00;
   transition: all .5s ease-in-out;
 }
 
@@ -1917,7 +1917,7 @@ service css
   width: 90px;
   height: 90px;
   border: 4px solid #fff;
-  background: #ffc421;
+  background: #fddd00;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50px;
@@ -1946,7 +1946,7 @@ service css
 }
 
 .service-title a:hover {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .service-arrow .service-btn {
@@ -1960,7 +1960,7 @@ service css
 }
 
 .service-arrow .service-btn:hover {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 
@@ -1971,12 +1971,12 @@ service single
 ==================== */
 
 .service-single-list i {
-  color: #ffc421;
+  color: #fddd00;
   margin-right: 10px;
 }
 
 .service-download a {
-  border: 2px solid #ffc421;
+  border: 2px solid #fddd00;
   padding: 10px 20px;
   color: #222222;
   display: block;
@@ -1991,7 +1991,7 @@ service single
 }
 
 .service-download a:hover {
-  background-color: #ffc421;
+  background-color: #fddd00;
   color: #fff;
 }
 
@@ -2046,7 +2046,7 @@ video css
   height: 75px;
   width: 75px;
   text-align: center;
-  background: #ffc421;
+  background: #fddd00;
   position: absolute;
   border-radius: 50%;
   top: 50%;
@@ -2168,8 +2168,8 @@ menu css
 }
 
 .menu-area2 .menu-nav .nav-item .nav-link.active {
-  color: #ffc421;
-  border-bottom-color: #ffc421;
+  color: #fddd00;
+  border-bottom-color: #fddd00;
 }
 
 .menu-item2{
@@ -2201,7 +2201,7 @@ menu css
 }
 
 .menu-item-info2 h4:hover{
-  color: #ffc421;
+  color: #fddd00;
 }
 
 
@@ -2374,7 +2374,7 @@ testimonial css
 }
 
 .testimonial-author-info p {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .testimonial-quote-icon {
@@ -2417,7 +2417,7 @@ counter css
 ====================== */
 
 .counter-area {
-  background: #ffc421;
+  background: #fddd00;
   position: relative;
   z-index: 1;
 }
@@ -2685,7 +2685,7 @@ cta-area css
 ====================== */
 
 .cta-area{
-  background: #ffc421;
+  background: #fddd00;
 }
 
 .cta-area .site-title-tagline{
@@ -2804,7 +2804,7 @@ gallery css
 }
 
 .gallery-content h4 a:hover {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .gallery-slider.owl-theme .owl-nav {
@@ -2816,7 +2816,7 @@ gallery css
   font-size: 25px;
   margin: 0;
   padding: 0;
-  background: #ffc421;
+  background: #fddd00;
   display: inline-block;
   cursor: pointer;
   height: 50px;
@@ -2873,8 +2873,8 @@ gallery css
 
 .filter-btns li.active,
 .filter-btns li:hover {
-  color: #ffc421;
-  border-bottom-color: #ffc421;
+  color: #fddd00;
+  border-bottom-color: #fddd00;
 }
 
 @media all and (max-width: 1199px) {
@@ -2928,11 +2928,11 @@ blog css
 
 .blog-item-meta ul li i {
   margin-right: 5px;
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .blog-item-meta a:hover {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .blog-title {
@@ -2950,8 +2950,8 @@ blog css
   padding: 6px 25px;
   border-radius: 50px;
   font-weight: 500;
-  border: 2px solid #ffc421;
-  background: #ffc421;
+  border: 2px solid #fddd00;
+  background: #fddd00;
   color: #fff;
 }
 
@@ -2961,7 +2961,7 @@ blog css
 
 .blog-btn:hover {
   background: transparent;
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .blog-item-info h4 a {
@@ -2969,7 +2969,7 @@ blog css
 }
 
 .blog-item-info h4 a:hover {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 @media all and (max-width: 991px) {
@@ -3026,7 +3026,7 @@ blog single css
 
 .blockqoute {
   background: #F5F7FA;
-  border-left: 5px solid #ffc421;
+  border-left: 5px solid #fddd00;
   padding: 30px;
   font-size: 17px;
   font-style: italic;
@@ -3045,7 +3045,7 @@ blog single css
   position: absolute;
   height: 2px;
   width: 40px;
-  background: #ffc421;
+  background: #fddd00;
   left: 0;
   top: 10px;
 }
@@ -3075,7 +3075,7 @@ blog single css
 }
 
 .blog-details-tags ul a:hover {
-  background: #ffc421;
+  background: #fddd00;
   color: #fff;
 }
 
@@ -3091,7 +3091,7 @@ blog single css
 }
 
 .blog-author-img {
-  border: 2px dashed #ffc421;
+  border: 2px dashed #fddd00;
   padding: 5px;
   width: 250px;
   border-radius: 50%;
@@ -3103,7 +3103,7 @@ blog single css
 
 .author-name {
   font-size: 22px;
-  color: #ffc421;
+  color: #fddd00;
   margin: 8px 0;
 }
 
@@ -3117,7 +3117,7 @@ blog single css
 
 .author-social a {
   margin-right: 10px;
-  color: #ffc421;
+  color: #fddd00;
   transition: all .5s ease-in-out;
 }
 
@@ -3158,7 +3158,7 @@ blog single css
 .blog-comments-content a {
   font-weight: 600;
   margin-top: 5px;
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .blog-comments-content a:hover {
@@ -3256,7 +3256,7 @@ sidebar css
   position: absolute;
   content: '';
   width: 15px;
-  border-bottom: 3px solid #ffc421;
+  border-bottom: 3px solid #fddd00;
   bottom: 0;
   left: 0;
 }
@@ -3265,7 +3265,7 @@ sidebar css
   position: absolute;
   content: '';
   width: 30px;
-  border-bottom: 3px solid #ffc421;
+  border-bottom: 3px solid #fddd00;
   bottom: 0;
   left: 22px;
 }
@@ -3309,12 +3309,12 @@ sidebar css
 
 .widget .category-list a:hover {
   padding-left: 10px;
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .widget .category-list a i {
   margin-right: 5px;
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .widget .category-list a span {
@@ -3351,15 +3351,15 @@ sidebar css
 }
 
 .widget .recent-post-bio h6 a:hover {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .widget .social-share-link a {
   width: 35px;
   height: 35px;
   line-height: 31px;
-  border: 2px solid #ffc421;
-  color: #ffc421;
+  border: 2px solid #fddd00;
+  color: #fddd00;
   text-align: center;
   margin-right: 5px;
   border-radius: 50px;
@@ -3367,7 +3367,7 @@ sidebar css
 }
 
 .widget .social-share-link a:hover {
-  background: #ffc421;
+  background: #fddd00;
   color: #fff;
 }
 
@@ -3383,7 +3383,7 @@ sidebar css
 }
 
 .widget .tag-list a:hover {
-  background-color: #ffc421;
+  background-color: #fddd00;
   color: #fff;
 }
 
@@ -3421,7 +3421,7 @@ shop css
   position: absolute;
   content: '';
   width: 30px;
-  border-bottom: 3px solid #ffc421;
+  border-bottom: 3px solid #fddd00;
   bottom: 0;
   left: 0;
 }
@@ -3430,7 +3430,7 @@ shop css
   position: absolute;
   content: '';
   width: 5px;
-  border-bottom: 3px solid #ffc421;
+  border-bottom: 3px solid #fddd00;
   bottom: 0;
   left: 35px;
 }
@@ -3486,7 +3486,7 @@ shop css
 }
 
 .shop-tags a:hover {
-  background-color: #ffc421;
+  background-color: #fddd00;
   color: #fff;
 }
 
@@ -3582,7 +3582,7 @@ shop css
 }
 
 .shop-item-title:hover {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .shop-item-price {
@@ -3657,13 +3657,13 @@ shop css
   border-radius: 50px;
   text-align: center;
   background: #fff;
-  color: #ffc421;
+  color: #fddd00;
   margin-bottom: 15px;
   font-size: 18px;
 }
 
 .shop-item-meta a:hover {
-  background: #ffc421;
+  background: #fddd00;
   color: #fff;
 }
 
@@ -3767,7 +3767,7 @@ shop css
 }
 
 .cart-remove:hover {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .cart-footer {
@@ -3795,7 +3795,7 @@ shop css
   padding: 8px 14px;
   color: #fff;
   border: none;
-  background: #ffc421;
+  background: #fddd00;
   border-radius: 8px;
   transition: all .5s ease-in-out;
 }
@@ -3926,7 +3926,7 @@ shop css
 }
 
 .single-item-price span {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .single-item-content h5 {
@@ -3960,13 +3960,13 @@ shop css
   margin-right: 5px;
   font-size: 18px;
   border-radius: 50px;
-  border: 2px solid #ffc421;
-  color: #ffc421;
+  border: 2px solid #fddd00;
+  color: #fddd00;
   transition: all .5s ease-in-out;
 }
 
 .single-item-btn:hover {
-  background: #ffc421;
+  background: #fddd00;
   color: #fff;
 }
 
@@ -3987,8 +3987,8 @@ shop css
   line-height: 35px;
   text-align: center;
   border-radius: 50px;
-  border: 2px solid #ffc421;
-  color: #ffc421;
+  border: 2px solid #fddd00;
+  color: #fddd00;
   margin-left: 5px;
 }
 
@@ -4033,8 +4033,8 @@ shop css
 
 .single-item-details .nav-tabs .nav-link:hover,
 .single-item-details .nav-tabs .nav-link.active {
-  border-bottom: 2px solid #ffc421;
-  color: #ffc421;
+  border-bottom: 2px solid #fddd00;
+  color: #fddd00;
 }
 
 .related-item {
@@ -4316,7 +4316,7 @@ team css
 .team-content::before {
   content: "";
   position: absolute;
-  background: #ffc421;
+  background: #fddd00;
   border-radius: 20px;
   height: 100px;
   width: 100px;
@@ -4331,7 +4331,7 @@ team css
 .team-content::after {
   content: "";
   position: absolute;
-  border: 3px solid #ffc421;
+  border: 3px solid #fddd00;
   border-radius: 20px;
   height: 100px;
   width: 100px;
@@ -4360,14 +4360,14 @@ team css
 }
 
 .team-bio span {
-  color: #ffc421;
+  color: #fddd00;
   font-size: 16px;
   font-weight: 500;
   text-transform: capitalize;
 }
 
 .team-bio h5 a:hover {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .team-social {
@@ -4393,7 +4393,7 @@ team css
   height: 40px;
   line-height: 40px;
   margin-bottom: 10px;
-  background: #ffc421;
+  background: #fddd00;
   border-radius: 50px;
 }
 
@@ -4447,13 +4447,13 @@ faq css
   height: 45px;
   line-height: 45px;
   border-radius: 8px;
-  background: #ffc421;
+  background: #fddd00;
   text-align: center;
   color: #fff;
 }
 
 .faq-area .accordion-button:not(.collapsed) {
-  color: #ffc421;
+  color: #fddd00;
   background: transparent;
   box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
 }
@@ -4468,7 +4468,7 @@ faq css
 }
 
 .accordion-button:not(.collapsed) {
-  border-bottom: 1px solid #ffc421;
+  border-bottom: 1px solid #fddd00;
 }
 
 .accordion-button:not(.collapsed)::after {
@@ -4612,7 +4612,7 @@ pagination css
 
 .pagination .page-link:hover,
 .pagination .page-item.active .page-link {
-  background: #ffc421;
+  background: #fddd00;
   color: #fff;
 }
 
@@ -4723,7 +4723,7 @@ auth css
 }
 
 .login-form .forgot-pass:hover {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .login-form .theme-btn {
@@ -4744,7 +4744,7 @@ auth css
 }
 
 .login-form .form-check-label a:hover {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .form-check-input:checked {
@@ -4813,7 +4813,7 @@ coming soon css
   height: auto;
   border: none;
   border-radius: 8px;
-  background: #ffc421;
+  background: #fddd00;
   display: inline-block;
   color: #fff;
   padding-left: 30px;
@@ -4846,8 +4846,8 @@ coming soon css
 }
 
 .coming-social a:hover {
-  background: #ffc421;
-  border-color: #ffc421;
+  background: #fddd00;
+  border-color: #fddd00;
 }
 
 .countdown-wrap {
@@ -4865,11 +4865,11 @@ coming soon css
 }
 
 .countdown-single h2 {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .countdown-single h5 {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 /* ===================
@@ -4884,7 +4884,7 @@ error css
   font-size: 250px;
   letter-spacing: 5px;
   font-weight: bold;
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .error-wrapper h1 span {
@@ -4992,7 +4992,7 @@ footer css
 }
 
 .copyright .footer-menu li a:hover {
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .copyright .copyright-text {
@@ -5002,7 +5002,7 @@ footer css
 }
 
 .copyright .copyright-text a {
-  color: #ffc421;
+  color: #fddd00;
   font-weight: 500;
 }
 
@@ -5022,7 +5022,7 @@ footer css
   z-index: -1;
   width: 12px;
   height: 2px;
-  background-color: #ffc421;
+  background-color: #fddd00;
   bottom: 0;
   left: 0;
 }
@@ -5033,7 +5033,7 @@ footer css
   z-index: -1;
   width: 30px;
   height: 2px;
-  background-color: #ffc421;
+  background-color: #fddd00;
   bottom: 0;
   left: 18px;
 }
@@ -5051,12 +5051,12 @@ footer css
 
 .footer-list li a i {
   margin-right: 5px;
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .footer-list li a:hover {
   padding-left: 10px;
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .footer-widget-box p {
@@ -5077,13 +5077,13 @@ footer css
   line-height: 33px;
   text-align: center;
   border-radius: 50px;
-  border: 2px solid #ffc421;
+  border: 2px solid #fddd00;
   color: #fff;
   transition: all .5s ease-in-out;
 }
 
 .footer-social li a i:hover {
-  background: #ffc421;
+  background: #fddd00;
   color: #fff;
 }
 
@@ -5111,7 +5111,7 @@ footer css
 
 .footer-newsletter .subscribe-form .theme-btn:hover {
   background-color: #fff;
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .footer-customer-service {
@@ -5127,7 +5127,7 @@ footer css
 }
 
 .footer-customer-service a {
-  color: #ffc421;
+  color: #fddd00;
   font-size: 20px;
   font-weight: 800;
 }
@@ -5165,7 +5165,7 @@ footer css
   border-radius: 5px;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  color: #ffc421;
+  color: #fddd00;
 }
 
 .footer-opening-hour {
@@ -5267,7 +5267,7 @@ home 2
 }
 
 .home-2 .navbar.fixed-top{
-  background: #ffc421;
+  background: #fddd00;
 }
 
 .home-2 .hero-single{
